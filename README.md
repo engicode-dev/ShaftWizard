@@ -20,8 +20,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/engicode-dev/shaft-wizard.git
-   cd shaft-wizard
+   git clone https://github.com/engicode-dev/ShaftWizard.git
+   cd ShaftWizard
    ```
 
 2. Создайте виртуальное окружение и установите зависимости:
