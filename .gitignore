@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+*.swp
+
+# Файлы FreeCAD и результаты генерации
+*.FCStd
+temp_gen.py
+shaft_output.FCStd
+*.FCStd1
+
+# Тесты и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Базы данных и временные файлы
+*.db
+*.sqlite3
+*.log
